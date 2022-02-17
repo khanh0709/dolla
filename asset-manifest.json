@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/dolla/static/css/main.d7da34c1.css",
-    "main.js": "/dolla/static/js/main.287fa819.js",
+    "main.js": "/dolla/static/js/main.43118b9d.js",
     "static/media/video.mp4": "/dolla/static/media/video.7d1ea6a94986d5c2a068.mp4",
     "static/media/svg-1.svg": "/dolla/static/media/svg-1.ae46b72ad4ef7a906287eb84147785be.svg",
     "static/media/svg-2.svg": "/dolla/static/media/svg-2.0d5eafcfa1b4a30e0bbdaeb28bff572e.svg",
     "static/media/svg-3.svg": "/dolla/static/media/svg-3.cfa05eaa112e86ad021c1e660b027280.svg",
     "index.html": "/dolla/index.html",
     "main.d7da34c1.css.map": "/dolla/static/css/main.d7da34c1.css.map",
-    "main.287fa819.js.map": "/dolla/static/js/main.287fa819.js.map"
+    "main.43118b9d.js.map": "/dolla/static/js/main.43118b9d.js.map"
   },
   "entrypoints": [
     "static/css/main.d7da34c1.css",
-    "static/js/main.287fa819.js"
+    "static/js/main.43118b9d.js"
   ]
 }
